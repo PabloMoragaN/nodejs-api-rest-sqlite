@@ -4,7 +4,7 @@ NodeJs API REST connected with sqlite. Using express, consign, sequelize and bab
 ## Modules used:
 babel for code transcription DEPRECATED  
 consign for app initialization (index.js),   
-sequelize for db connection and petitions to DB (db.js, routes,models,libs/config.js)  
+sequelize for db connection and requests to DB (db.js, routes,models,libs/config.js)  
 express for server building  
 
 ## Commands
